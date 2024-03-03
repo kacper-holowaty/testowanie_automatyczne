@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Konto bankowe
 
 ---
@@ -20,7 +19,4 @@ dzięki której będzie można wybrać logi historii z dowolnego przedziału cza
 
 Przed napisaniem każdej klasy stwórz dla niej odpowiednie testy jednostkowe, które klasa powinna spełniać.
 Respektuj reguły Clean Code oraz SOLID.
-=======
-# Testowanie Automatyczne
-W tym repozytorium znajdują się zadania z przzedmiotu testowanie automatyczne.
->>>>>>> 9f21e6c378c6a1fa6d3fd5560d7dbc6de7edcdf1
+
